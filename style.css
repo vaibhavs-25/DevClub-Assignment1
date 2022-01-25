@@ -1,0 +1,164 @@
+* {
+    margin: 0px 0px 0px 0px;
+    padding: 0px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+li {
+    margin-top: 60px;
+    margin-left: 85px;
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-style: medium;
+    line-height: 28px;
+    font-weight: 500;
+}
+
+.firstsection {
+    background-color: #4C0027;
+    height: 1024px;
+}
+
+a {
+    text-decoration: none;
+    color: white
+}
+
+.secondsection {
+    height: 775px;
+    background-color: #FFFFFF;
+}
+
+.thirdsection {
+    background-color: #E8AFCE;
+    height: 721px
+}
+
+.fourthsection {
+    background-color: #FFFFFF;
+    height: 762px;
+}
+
+.foot {
+    background-color: #4C0027;
+    height: 219px;
+
+}
+
+
+iframe {
+    margin-top: 150px;
+    margin-left: 270px;
+}
+
+.headings {
+    text-align: center;
+    font-size: 54px;
+    color: #4C0027;
+    padding-top: 54px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+}
+
+#name {
+    color: white;
+    text-align: center;
+    font-size: 36px;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 89px;
+}
+
+th, td {
+    border-collapse: collapse;
+    border: 8px solid #750550;
+    text-align: center;
+    font-size: 24px;
+    background-color: white;
+    padding: 18px
+}
+
+table {
+    margin-top: 50px;
+    margin-left: 160px;
+    height: 454px;
+    width: 951px;
+    border-collapse: collapse;
+    border: 8px solid #750550;
+    text-align: center;
+    font-size: 24px;
+    background-color: white
+}
+
+thead th:nth-child(1) {
+    width: 35%
+}
+
+thead th:nth-child(2) {
+    width: 25%;
+}
+
+thead th:nth-child(3) {
+    width: 40%
+}
+
+#a {
+    color: #E8AFCE;
+    font-size: 48px;
+    margin-top: 150px;
+    margin-right: 240px;
+    margin-left: 85px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#worry {
+    font-size: 96px;
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+}
+
+.don {
+    display: flex;
+    margin-left: 85px;
+    height: 670px;
+}
+
+.don div:nth-child(2) {
+    align-self: flex-end;
+}
+
+.tips {
+    display: flex;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-size:54px;
+    align-items: center;
+    justify-content: space-evenly;
+    border:1px solid #E8AFCE;
+    height:250px;
+    width:1150px;
+    margin-left:60px
+}
+h4{
+    text-align: center;
+    font-family:'Roboto', sans-serif ;
+    font-size: 24px;
+}
+.box{
+    border:1px solid #E8AFCE;
+    padding:22px;
+    height:125px;
+}
+.faq{
+    padding:66px;
+    display:flex;
+    flex-direction:column;
+    justify-content: space-around;
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    font-size: 14px;
+}
